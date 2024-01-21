@@ -1,0 +1,8 @@
+*.bc
+*.c
+*.ll
+*.out
+
+.vscode/
+build*/
+workspace*/
